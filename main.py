@@ -1,7 +1,6 @@
 """
     Coder => Toshmanov Ramazon
     Datetime => 09.12.2024 19:05
-    Theme => Leetcode dagi masalalar yechimlari
 """
 
 # Faqat joriy faylda ishga tushirish
